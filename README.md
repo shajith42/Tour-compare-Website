@@ -24,3 +24,7 @@ This website is a platform where users can search, explore, and compare tour pac
 - **Package Manager**: npm or yarn 
 
 1. INTERFACE ![Interface](https://github.com/user-attachments/assets/7f5a5ea9-5203-4bd5-aaa8-416fe1cbde2b)
+2. Compare Option
+   Shows a side-by-side view of two packages.![Compare option](https://github.com/user-attachments/assets/a9931b1c-4689-4d35-bc72-64691724e4ca)
+![Compare option 2](https://github.com/user-attachments/assets/82f5a72b-a191-4170-b35c-59c64a458e2f)
+
