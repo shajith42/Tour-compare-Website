@@ -27,4 +27,10 @@ This website is a platform where users can search, explore, and compare tour pac
 2. Compare Option
    Shows a side-by-side view of two packages.![Compare option](https://github.com/user-attachments/assets/a9931b1c-4689-4d35-bc72-64691724e4ca)
 ![Compare option 2](https://github.com/user-attachments/assets/82f5a72b-a191-4170-b35c-59c64a458e2f)
+3. Filter
+   A filter panel is likely shown with options like rating, duration, or price.![Filter ](https://github.com/user-attachments/assets/886b801e-e805-43bb-9161-c71aaf7f658f)
+4.  Admin Package Management
+![Admin Dash Board](https://github.com/user-attachments/assets/3035a01a-5112-4c31-8579-633943bf26e5)
+![Admin package management](https://github.com/user-attachments/assets/cb73962b-a30a-47c5-86c5-2a0e4566a0b2)
+
 
