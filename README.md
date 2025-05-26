@@ -22,3 +22,5 @@ This website is a platform where users can search, explore, and compare tour pac
 - **MongoDB**: v5.x or above (local or cloud via MongoDB Atlas)  
 - **Browser**: Google Chrome (recommended)  
 - **Package Manager**: npm or yarn 
+
+1. INTERFACE ![Interface](https://github.com/user-attachments/assets/7f5a5ea9-5203-4bd5-aaa8-416fe1cbde2b)
